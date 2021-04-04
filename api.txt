@@ -1,0 +1,8 @@
+7e4d01b54191a693ad054f620d13c8df
+
+https://api.themoviedb.org/3/movie/550?api_key=7e4d01b54191a693ad054f620d13c8df
+
+eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI3ZTRkMDFiNTQxOTFhNjkzYWQwNTRmNjIwZDEzYzhkZiIsInN1YiI6IjYwNjcxNTRhMTJjNjA0MDA2ZWE5YTcwNiIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.GQthrO1njD5mzVxtQHAfExAtjJH1-LcqH53PHHlKWbA
+
+
+https://finalass1.herokuapp.com/index.html

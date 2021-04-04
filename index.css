@@ -1,0 +1,46 @@
+body {
+    font-family: 'Trattatello', fantasy;
+    align-items: center;
+    text-align: center;
+    background-color:rgba(164, 216, 181, 0.719);
+    color: #eef3ec;
+  }
+  
+  #person, #movie{
+    margin-left : 10%;
+    margin-right : 10%;
+    padding-top :30px;
+    padding-bottom :30px;
+  }
+  
+
+  
+  #movietitle, #personname{
+    font-size: 20px;
+    font-weight: bold;
+  }
+  
+  #movie *,#person * {
+      margin-bottom: 5px;
+  }
+  #formMovie *,#formActor * {
+      margin-bottom: 5px;
+  }
+  img {
+      max-width: 100px;
+      max-height: 150px;
+      border: 2px solid;
+      border-color: #ecf0f1;
+  }
+  #netflix{
+    max-width: 100%;
+    max-height: none;
+    border : none;
+  }
+    
+  #success {
+    color: lime;
+    font-size: 40px;
+    font-family: 'Trattatello', fantasy;
+  }
+  
